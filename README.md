@@ -5,3 +5,6 @@ In this we used **Gradio** open source API form creating the webapp
 
 
 The gr.Interface is used to create a web-based interface for the predict_image function.
+
+
+accuracy: 0.9874 of the deep learning modal of the epochs
